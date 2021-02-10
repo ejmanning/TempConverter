@@ -1,5 +1,11 @@
 package model;
 
+/**
+ * @author ${user} - ejmanning
+ * CIS175 - Spring 2021
+ * ${date}
+ */
+
 public class TempConvertToC {
 	private float degreesEntered;
 	private float degreesCelsius;
